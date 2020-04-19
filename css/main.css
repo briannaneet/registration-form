@@ -18,3 +18,15 @@ h1 {
 legend {
   padding-right: 1rem;
 }
+
+@media only screen and (min-width: 60em) {
+
+  .padright {
+    padding-right: .5rem;
+  }
+
+  .padleft {
+    padding-left: .5rem;
+  }
+
+}
