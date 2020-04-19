@@ -9,3 +9,7 @@ section {
 div {
   background-color: #fff;
 }
+
+hr {
+  height: 1px;
+}
